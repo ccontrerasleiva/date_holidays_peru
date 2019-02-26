@@ -3,10 +3,10 @@
     http://pear.php.net/dtd/tasks-1.0.xsd
     http://pear.php.net/dtd/package-2.0
     http://pear.php.net/dtd/package-2.0.xsd">
- <name>Date_Holidays_Peru</name>
- <channel>pear.php.net</channel>
- <summary>Holidays para Perú</summary>
- <description>Driver para Date_Holidays para fechas en Perú</description>
+ <name>Date_Holidays_Driver_Peru</name>
+ <uri>https://github.com/ccontrerasleiva/date_holidays_peru/blob/master/Date_Holidays_Peru-0.1.tgz</uri>
+ <summary>Perú Holidays</summary>
+ <description>Add Holidays driver for Perú</description>
  <lead>
   <name>Cristian Contreras</name>
   <user>ccontreras</user>
@@ -14,7 +14,7 @@
   <active>yes</active>
  </lead>
  <date>2019-02-26</date>
- <time>09:00:09</time>
+ <time>09:08:32</time>
  <version>
   <release>0.1</release>
   <api>0.1</api>
